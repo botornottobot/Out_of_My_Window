@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "PoWGarnier-Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/PoWGarnierDemo-Regular.woff2") format("woff2"),
+    url("../fonts/PoWGarnierDemo-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "cmunsi";
+   font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+ src: url("../fonts/cmunsi.woff") format("woff");
+}

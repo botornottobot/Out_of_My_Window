@@ -8,7 +8,6 @@ body {
   font-family: "cmunsi";
   background: white;
   overflow: hidden;
-  justify-content: center;
 }
 
 .slide {
@@ -17,6 +16,7 @@ body {
   width: 100vw;
   height: 100vh;
   position: relative;
+  overflow: hidden;
 }
 
 #slide0 {
@@ -31,8 +31,8 @@ body {
   width: 75%;
   height: 100%;
   object-fit: cover;
-   filter: contrast(130%);
-  margin-left: 7%
+  filter: contrast(130%);
+  margin-left: 7%;
 }
 
 .text {
@@ -79,6 +79,14 @@ body {
   z-index: 20;
   font-family: "Times New Roman";
 }
+
+iframe {
+  width: 40vw;
+  height: 25vw;
+  display: block;
+  margin: 0 auto;
+}
+
 #final::-webkit-scrollbar {
   width: 20px;
 }

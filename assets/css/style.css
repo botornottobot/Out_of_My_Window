@@ -40,7 +40,7 @@ body {
   left: 73%;
   top: 560px;
   width: 20%;
-  font-size: 25px;
+   font-size: 1.2vw;
   line-height: 1.4;
   font-family: "cmunsi";
   background: none;
@@ -73,7 +73,7 @@ body {
   padding-left:700px;
   padding-right: 700px;
   text-align: center;
-  font-size: 35px;
+   font-size: 1.5vw;
   line-height: 1.2;
   backdrop-filter: blur(20px);
   z-index: 20;
